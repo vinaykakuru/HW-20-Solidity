@@ -12,17 +12,17 @@
     ```
     https://gitter.im/kovan-testnet/faucet#
     ```
-    Got 3 test Ether from Faucet
-   ![Faucet](./InitialEther0to3.png) 
+    * Got 3 test Ether from Faucet
+    * ![Faucet](./InitialEther0to3.png) 
 
 2) Compile threeTierSplit.sol on Remix
-   ![Compile](./CompileOnRexix.png)
+   * ![Compile](./CompileOnRexix.png)
 
 3) Deploy contract using 3 address from Ganche
-   ![Deploy](./3WaySplitAddresses.png)
+   * ![Deploy](./3WaySplitAddresses.png)
 
 4) Show the Deployed Transaction on Kovan Test Network
-   ![Contract](./DeployedContractOnKovan.png)
+   * ![Contract](./DeployedContractOnKovan.png)
    
 ### Contract# 0x09DC185b1Abbb191b7b525dCf16AC5904d5427f2
 ### Account#  0xCA35b7d915458EF540aDe6068dFe2F44E8fa733c
