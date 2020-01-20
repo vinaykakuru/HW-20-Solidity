@@ -24,5 +24,5 @@
 4) Show the Deployed Transaction on Kovan Test Network
    * ![Contract](./DeployedContractOnKovan.png)
    
-### Contract# 0x09DC185b1Abbb191b7b525dCf16AC5904d5427f2
-### Account#  0xCA35b7d915458EF540aDe6068dFe2F44E8fa733c
+* ### Contract# 0x09DC185b1Abbb191b7b525dCf16AC5904d5427f2
+* ### Account#  0xCA35b7d915458EF540aDe6068dFe2F44E8fa733c
