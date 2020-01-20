@@ -5,6 +5,8 @@
 * Summary: *Purpose of this assignment is to create a custom contrat in Solidity to split a equity value across 3 addresses*
 
 ### Confirmation of Contract Deployment https://kovan.etherscan.io/address/0x09dc185b1abbb191b7b525dcf16ac5904d5427f2
+* ### Contract# 0x09DC185b1Abbb191b7b525dCf16AC5904d5427f2
+* ### Account#  0xCA35b7d915458EF540aDe6068dFe2F44E8fa733c
 
 ## My Steps and Screen-Shots
 
@@ -24,5 +26,4 @@
 4) Show the Deployed Transaction on Kovan Test Network
    * ![Contract](./DeployedContractOnKovan.png)
    
-* ### Contract# 0x09DC185b1Abbb191b7b525dCf16AC5904d5427f2
-* ### Account#  0xCA35b7d915458EF540aDe6068dFe2F44E8fa733c
+
